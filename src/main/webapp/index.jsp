@@ -728,7 +728,7 @@
             },
             {
                 id: 'laptops',
-                name: 'Laptops',
+                name: 'Mac-OS',
                 icon: 'fa-laptop'
             },
             {
